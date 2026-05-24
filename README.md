@@ -30,24 +30,20 @@ Atuamos na criação de:
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizioncorp&theme=github_dark" 
-    alt="Resumo do perfil GitHub" 
+    src="https://img.shields.io/badge/Projetos-3_repositórios-0d1117?style=for-the-badge&logo=github&logoColor=white" 
+    alt="Projetos GitHub" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Foco-SaaS_e_APIs-0d1117?style=for-the-badge&logo=typescript&logoColor=white" 
+    alt="Foco em SaaS e APIs" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Stack-Node.js_|_React_|_PostgreSQL-0d1117?style=for-the-badge&logo=node.js&logoColor=white" 
+    alt="Stack principal" 
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizioncorp&theme=github_dark" 
-    alt="Linguagens por repositório" 
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizioncorp&theme=github_dark" 
-    alt="Linguagens por commit" 
-  />
-</p>
 ---
 
 ## 🧠 Stack principal
