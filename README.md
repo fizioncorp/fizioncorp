@@ -30,18 +30,24 @@ Atuamos na criação de:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=fizioncorp&show_icons=true&theme=dark&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizioncorp&theme=github_dark" 
+    alt="Resumo do perfil GitHub" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizioncorp&layout=compact&theme=dark&hide_border=true" 
-    alt="Linguagens mais usadas" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizioncorp&theme=github_dark" 
+    alt="Linguagens por repositório" 
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizioncorp&theme=github_dark" 
+    alt="Linguagens por commit" 
+  />
+</p>
 ---
 
 ## 🧠 Stack principal
