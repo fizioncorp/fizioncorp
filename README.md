@@ -28,52 +28,32 @@ Atuamos na criação de:
 
 ## 📊 Visão geral
 
-<p align="center">
-  Indicadores dinâmicos do perfil GitHub da Fizion, com foco em evolução técnica, linguagens utilizadas e atividade de desenvolvimento.
-</p>
-
 <div align="center">
 
   <img 
-    width="24%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizioncorp&theme=github_dark" 
-    alt="Resumo geral do perfil GitHub"
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=fizioncorp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=FizionCorp%20Stats" 
+    alt="GitHub Stats"
   />
 
-</div>
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizioncorp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Stack%20principal" 
+    alt="Linguagens mais usadas"
+  />
 
-<br />
-
-<div align="center">
+  <br />
 
   <img 
-    width="24%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizioncorp&theme=github_dark" 
+    width="48%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizioncorp&theme=tokyonight" 
     alt="Linguagens por repositório"
   />
 
   <img 
-    width="24%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizioncorp&theme=github_dark" 
-    alt="Linguagens mais usadas em commits"
-  />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img 
-    width="24%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fizioncorp&theme=github_dark" 
-    alt="Estatísticas do GitHub"
-  />
-
-  <img 
-    width="24%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fizioncorp&theme=github_dark&utcOffset=-3" 
-    alt="Horários mais produtivos"
+    width="48%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizioncorp&theme=tokyonight" 
+    alt="Linguagens por commit"
   />
 
 </div>
