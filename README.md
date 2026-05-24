@@ -28,21 +28,51 @@ Atuamos na criação de:
 
 ## 📊 Visão geral
 
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/Projetos-3_repositórios-0d1117?style=for-the-badge&logo=github&logoColor=white" 
-    alt="Projetos GitHub" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Foco-SaaS_e_APIs-0d1117?style=for-the-badge&logo=typescript&logoColor=white" 
-    alt="Foco em SaaS e APIs" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Stack-Node.js_|_React_|_PostgreSQL-0d1117?style=for-the-badge&logo=node.js&logoColor=white" 
-    alt="Stack principal" 
-  />
-</p>
+<div align="center">
 
+  <img 
+    width="100%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizioncorp&theme=github_dark" 
+    alt="Resumo geral do perfil GitHub"
+  />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizioncorp&theme=github_dark" 
+    alt="Linguagens por repositório"
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizioncorp&theme=github_dark" 
+    alt="Linguagens mais usadas em commits"
+  />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fizioncorp&theme=github_dark" 
+    alt="Estatísticas do GitHub"
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fizioncorp&theme=github_dark&utcOffset=-3" 
+    alt="Horários mais produtivos"
+  />
+
+</div>
 
 ---
 
@@ -102,6 +132,3 @@ Estamos abertos a:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet" />
-</p>
