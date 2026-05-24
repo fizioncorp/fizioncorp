@@ -28,22 +28,24 @@ Atuamos na criação de:
 
 ## 📊 Visão geral
 
-<div align="center">
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-one-xi-93.vercel.app/api?username=fizioncorp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=FizionCorp%20Stats&locale=pt-br" 
-    alt="GitHub Stats"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-one-xi-93.vercel.app/api/top-langs/?username=fizioncorp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Stack%20principal&locale=pt-br" 
-    alt="Linguagens mais usadas"
-  />
-
-</div>
-
+<table>
+  <tr>
+    <td width="50%">
+      <img 
+        width="100%" 
+        src="https://github-readme-stats-one-xi-93.vercel.app/api?username=fizioncorp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=FizionCorp%20Stats&locale=pt-br" 
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%">
+      <img 
+        width="100%" 
+        src="https://github-readme-stats-one-xi-93.vercel.app/api/top-langs/?username=fizioncorp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Stack%20principal&locale=pt-br" 
+        alt="Linguagens mais usadas"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧠 Stack principal
