@@ -30,14 +30,14 @@ Atuamos na criação de:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=imperioruizbertoli&show_icons=true&theme=dark&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=fizioncorp&show_icons=true&theme=dark&hide_border=true&count_private=true" 
     alt="GitHub Stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperioruizbertoli&layout=compact&theme=dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizioncorp&layout=compact&theme=dark&hide_border=true" 
     alt="Linguagens mais usadas" 
   />
 </p>
