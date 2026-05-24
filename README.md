@@ -28,27 +28,55 @@ Atuamos na criação de:
 
 ## 📊 Visão geral
 
-## 📊 Visão geral
-
 <p align="center">
+  Indicadores dinâmicos do perfil GitHub da Fizion, com foco em evolução técnica, linguagens utilizadas e atividade de desenvolvimento.
+</p>
+
+<div align="center">
+
   <img 
-    width="32%" 
+    width="24%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizioncorp&theme=github_dark" 
+    alt="Resumo geral do perfil GitHub"
+  />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img 
+    width="24%" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizioncorp&theme=github_dark" 
     alt="Linguagens por repositório"
   />
 
   <img 
-    width="32%" 
+    width="24%" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizioncorp&theme=github_dark" 
-    alt="Linguagens por commit"
+    alt="Linguagens mais usadas em commits"
   />
 
+</div>
+
+<br />
+
+<div align="center">
+
   <img 
-    width="32%" 
+    width="24%" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fizioncorp&theme=github_dark" 
     alt="Estatísticas do GitHub"
   />
-</p>
+
+  <img 
+    width="24%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fizioncorp&theme=github_dark&utcOffset=-3" 
+    alt="Horários mais produtivos"
+  />
+
+</div>
 
 ---
 
