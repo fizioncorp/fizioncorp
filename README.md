@@ -28,6 +28,10 @@ Atuamos na criação de:
 
 ## 📊 Visão geral
 
+<p align="center">
+  Indicadores dinâmicos do perfil GitHub da Fizion, com foco em evolução técnica, linguagens utilizadas e atividade de desenvolvimento.
+</p>
+
 <div align="center">
 
   <img 
