@@ -32,28 +32,14 @@ Atuamos na criação de:
 
   <img 
     width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=fizioncorp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=FizionCorp%20Stats" 
+    src="https://github-readme-stats-one-xi-93.vercel.app/api?username=fizioncorp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=FizionCorp%20Stats" 
     alt="GitHub Stats"
   />
 
   <img 
     width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizioncorp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Stack%20principal" 
+    src="https://github-readme-stats-one-xi-93.vercel.app/api/top-langs/?username=fizioncorp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Stack%20principal" 
     alt="Linguagens mais usadas"
-  />
-
-  <br />
-
-  <img 
-    width="48%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizioncorp&theme=tokyonight" 
-    alt="Linguagens por repositório"
-  />
-
-  <img 
-    width="48%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizioncorp&theme=tokyonight" 
-    alt="Linguagens por commit"
   />
 
 </div>
